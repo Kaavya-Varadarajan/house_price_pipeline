@@ -1,0 +1,19 @@
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual env
+.env
+venv/
+.envrc
+
+# Data and models (don't commit large raw files or models by default)
+data/
+models/
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS
+.DS_Store

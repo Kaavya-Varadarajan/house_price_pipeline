@@ -1,0 +1,7 @@
+When to choose which
+Feature	Random Forest	XGBoost	LightGBM
+Training speed (small data)	Medium	Fast	Fastest
+Accuracy (tabular data)	Good	Very Good	Very Good
+Handles missing values?	No	Yes	Yes
+Native categorical support	No	No	Yes
+Best for large datasets	❌	✅	✅✅

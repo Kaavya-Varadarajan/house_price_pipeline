@@ -1,4 +1,8 @@
 
+<p align="left">
+   <img src="icon_house.png" alt="House Icon" width="60" />
+</p>
+
 # House Price Prediction Pipeline
 
 This project provides a comprehensive, end-to-end machine learning pipeline for predicting house prices. The pipeline covers all stages from data collection and preprocessing to model training, evaluation, and visualization.
